@@ -1,0 +1,21 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "file-manager",
+    "file-system",
+    "cli"
+  ],
+  "author": "tgulevich",
+  "license": "ISC"
+}
